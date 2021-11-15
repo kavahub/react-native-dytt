@@ -98,9 +98,14 @@ react-native bundle --platform android --dev false --entry-file index.js --bundl
 - [DYTT](https://github.com/XboxYan/DYTT) : 第三方电影天堂React Native客户端V2.0
 
 
+#### 参考文档
+
+- [React Native 中文网 - 打包发布](https://reactnative.cn/docs/signed-apk-android)
+
 # 更新记录
 
 #### 20211115
 
 使用 [360看看](https://m.kkw361.com) 数据源
+
 
