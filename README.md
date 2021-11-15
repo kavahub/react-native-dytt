@@ -1,5 +1,5 @@
 # react-native-dytt
-电影天堂
+电影天堂手机端
 
 [![License](https://img.shields.io/github/license/kavahub/react-native-dytt.svg)](https://github.com/kavahub/react-native-dytt/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/kavahub/react-native-dytt.svg)](https://github.com/kavahub/react-native-dytt/stargazers)
