@@ -1,13 +1,16 @@
 # react-native-dytt
-电影天堂手机端
 
+[![Gitee stars](https://gitee.com/pinweiwan/react-native-dytt/badge/star.svg)](https://gitee.com/dromara/react-native-dytt/stargazers)
+[![Gitee forks](https://gitee.com/pinweiwan/react-native-dytt/badge/fork.svg)](https://gitee.com/dromara/react-native-dytt/members)
 [![License](https://img.shields.io/github/license/kavahub/react-native-dytt.svg)](https://github.com/kavahub/react-native-dytt/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/kavahub/react-native-dytt?style=flat-square&logo=GitHub)](https://github.com/kavahub/react-native-dytt/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/kavahub/react-native-dytt?style=flat-square&logo=GitHub)](https://github.com/kavahub/react-native-dytt/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/kavahub/react-native-dytt?style=flat-square&logo=GitHub)](https://github.com/kavahub/react-native-dytt/watchers)
 [![GitHub release](https://img.shields.io/github/release/kavahub/react-native-dytt?style=flat-square&logo=GitHub?color=blu)](https://github.com/kavahub/react-native-dytt/releases)
-[![Gitee stars](https://gitee.com/pinweiwan/react-native-dytt/badge/star.svg)](https://gitee.com/dromara/react-native-dytt/stargazers)
-[![Gitee forks](https://gitee.com/pinweiwan/react-native-dytt/badge/fork.svg)](https://gitee.com/dromara/react-native-dytt/members)
+
+[Gitee](https://gitee.com/pinweiwan/react-native-dytt)
+[GitHub](https://github.com/kavahub/react-native-dytt)
+
 #### 环境
 
 ```text
