@@ -9,6 +9,7 @@
 [![GitHub release](https://img.shields.io/github/release/kavahub/react-native-dytt?style=flat-square&logo=GitHub?color=blu)](https://github.com/kavahub/react-native-dytt/releases)
 
 [Gitee](https://gitee.com/pinweiwan/react-native-dytt)
+
 [GitHub](https://github.com/kavahub/react-native-dytt)
 
 #### 环境
